@@ -1,4 +1,73 @@
-/* 
+/* .up {
+  background-color: black;
+  width: 30px;
+  height: 100px;
+  margin-left: 170px;
+}
+
+.trafic {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  background-color: black;
+  width: 300px;
+  height: 600px;
+  margin-left: 25px;
+  margin-top: 1px;
+}
+
+.red {
+  border-radius: 100px;
+  background-color: #f36666;
+  width: 120px;
+  height: 120px;
+  color: #f36666;
+  opacity: 0.5;
+}
+
+.lightred {
+  background-color: #e70f07;
+  width: 120px;
+  height: 120px;
+  color: #e70f07;
+  border-radius: 100px;
+}
+
+.yellow {
+  border-radius: 100px;
+  background-color: #d7f52f;
+  width: 120px;
+  height: 120px;
+  color: #d7f52f;
+  opacity: 0.5;
+}
+
+.lightyellow {
+  border-radius: 100px;
+  background-color: yellow;
+  width: 120px;
+  height: 120px;
+  color: yellow;
+}
+
+.green {
+  border-radius: 100px;
+  background-color: #04af29;
+  width: 120px;
+  height: 120px;
+  color: #04af29;
+  opacity: 0.5;
+}
+
+.lightgreen {
+  border-radius: 100px;
+  background-color: green;
+  width: 120px;
+  height: 120px;
+  color: green;
+}
+
 
     You can write your own styles here...
     
